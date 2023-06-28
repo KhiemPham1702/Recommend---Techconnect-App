@@ -1,0 +1,947 @@
+[
+ {
+  "Id_user": "KH01",
+  "Id_product": 1,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH01",
+  "Id_product": 36,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH02",
+  "Id_product": 1,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH02",
+  "Id_product": 37,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH03",
+  "Id_product": 2,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH03",
+  "Id_product": 38,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH04",
+  "Id_product": 3,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH04",
+  "Id_product": 39,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH05",
+  "Id_product": 4,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH05",
+  "Id_product": 40,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH06",
+  "Id_product": 5,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH06",
+  "Id_product": 41,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH07",
+  "Id_product": 6,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH07",
+  "Id_product": 42,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH08",
+  "Id_product": 7,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH08",
+  "Id_product": 43,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH09",
+  "Id_product": 8,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH09",
+  "Id_product": 44,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH09",
+  "Id_product": 27,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH10",
+  "Id_product": 9,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH10",
+  "Id_product": 45,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH10",
+  "Id_product": 28,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH11",
+  "Id_product": 10,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH11",
+  "Id_product": 23,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH11",
+  "Id_product": 46,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH12",
+  "Id_product": 11,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH12",
+  "Id_product": 47,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH12",
+  "Id_product": 1,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH13",
+  "Id_product": 12,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH13",
+  "Id_product": 48,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH13",
+  "Id_product": 1,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH14",
+  "Id_product": 13,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH14",
+  "Id_product": 17,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH14",
+  "Id_product": 2,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH15",
+  "Id_product": 14,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH15",
+  "Id_product": 24,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH15",
+  "Id_product": 18,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH15",
+  "Id_product": 3,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH16",
+  "Id_product": 15,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH16",
+  "Id_product": 19,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH16",
+  "Id_product": 4,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH17",
+  "Id_product": 16,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH17",
+  "Id_product": 20,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH17",
+  "Id_product": 5,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH18",
+  "Id_product": 17,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH18",
+  "Id_product": 21,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH18",
+  "Id_product": 6,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH19",
+  "Id_product": 18,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH19",
+  "Id_product": 22,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH19",
+  "Id_product": 7,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH20",
+  "Id_product": 19,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH20",
+  "Id_product": 23,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH20",
+  "Id_product": 8,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH21",
+  "Id_product": 20,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH21",
+  "Id_product": 24,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH21",
+  "Id_product": 9,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH22",
+  "Id_product": 21,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH22",
+  "Id_product": 29,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH22",
+  "Id_product": 25,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH23",
+  "Id_product": 22,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH23",
+  "Id_product": 30,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH23",
+  "Id_product": 26,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH24",
+  "Id_product": 23,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH25",
+  "Id_product": 24,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH26",
+  "Id_product": 25,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH27",
+  "Id_product": 26,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH28",
+  "Id_product": 27,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH29",
+  "Id_product": 28,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH29",
+  "Id_product": 23,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH30",
+  "Id_product": 29,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH30",
+  "Id_product": 24,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH31",
+  "Id_product": 30,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH31",
+  "Id_product": 25,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH32",
+  "Id_product": 31,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH32",
+  "Id_product": 26,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH33",
+  "Id_product": 32,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH33",
+  "Id_product": 27,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH34",
+  "Id_product": 33,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH34",
+  "Id_product": 28,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH35",
+  "Id_product": 34,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH35",
+  "Id_product": 29,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH36",
+  "Id_product": 35,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH36",
+  "Id_product": 30,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH37",
+  "Id_product": 36,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH37",
+  "Id_product": 7,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH38",
+  "Id_product": 37,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH38",
+  "Id_product": 8,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH39",
+  "Id_product": 38,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH39",
+  "Id_product": 9,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH40",
+  "Id_product": 39,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH40",
+  "Id_product": 10,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH41",
+  "Id_product": 40,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH41",
+  "Id_product": 11,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH42",
+  "Id_product": 41,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH42",
+  "Id_product": 12,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH43",
+  "Id_product": 42,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH43",
+  "Id_product": 13,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH44",
+  "Id_product": 43,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH44",
+  "Id_product": 14,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH45",
+  "Id_product": 44,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH45",
+  "Id_product": 3,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH46",
+  "Id_product": 45,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH46",
+  "Id_product": 4,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH47",
+  "Id_product": 46,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH47",
+  "Id_product": 5,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH48",
+  "Id_product": 47,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH48",
+  "Id_product": 6,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH49",
+  "Id_product": 48,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH49",
+  "Id_product": 7,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH50",
+  "Id_product": 49,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH50",
+  "Id_product": 8,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH51",
+  "Id_product": 50,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH51",
+  "Id_product": 9,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH52",
+  "Id_product": 51,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH52",
+  "Id_product": 10,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH53",
+  "Id_product": 52,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH53",
+  "Id_product": 11,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH54",
+  "Id_product": 53,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH54",
+  "Id_product": 12,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH55",
+  "Id_product": 54,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH55",
+  "Id_product": 13,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH56",
+  "Id_product": 55,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH56",
+  "Id_product": 14,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH57",
+  "Id_product": 56,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH57",
+  "Id_product": 15,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH58",
+  "Id_product": 57,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH58",
+  "Id_product": 16,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH59",
+  "Id_product": 58,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH59",
+  "Id_product": 17,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH60",
+  "Id_product": 3,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH60",
+  "Id_product": 18,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH61",
+  "Id_product": 4,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH61",
+  "Id_product": 19,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH62",
+  "Id_product": 5,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH62",
+  "Id_product": 34,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH63",
+  "Id_product": 6,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH63",
+  "Id_product": 35,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH64",
+  "Id_product": 7,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH64",
+  "Id_product": 36,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH65",
+  "Id_product": 8,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH65",
+  "Id_product": 37,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH66",
+  "Id_product": 9,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH66",
+  "Id_product": 38,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH67",
+  "Id_product": 36,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH67",
+  "Id_product": 39,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH68",
+  "Id_product": 37,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH68",
+  "Id_product": 40,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH69",
+  "Id_product": 38,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH69",
+  "Id_product": 41,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH70",
+  "Id_product": 39,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH70",
+  "Id_product": 42,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH71",
+  "Id_product": 40,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH71",
+  "Id_product": 43,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH72",
+  "Id_product": 41,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH72",
+  "Id_product": 44,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH73",
+  "Id_product": 42,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH73",
+  "Id_product": 3,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH74",
+  "Id_product": 43,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH74",
+  "Id_product": 4,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH75",
+  "Id_product": 44,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH75",
+  "Id_product": 5,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH76",
+  "Id_product": 45,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH76",
+  "Id_product": 6,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH77",
+  "Id_product": 46,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH77",
+  "Id_product": 7,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH78",
+  "Id_product": 47,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH78",
+  "Id_product": 8,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH79",
+  "Id_product": 48,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH79",
+  "Id_product": 9,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH80",
+  "Id_product": 17,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH80",
+  "Id_product": 10,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH81",
+  "Id_product": 18,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH81",
+  "Id_product": 11,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH82",
+  "Id_product": 19,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH82",
+  "Id_product": 12,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH83",
+  "Id_product": 20,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH83",
+  "Id_product": 13,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH84",
+  "Id_product": 21,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH84",
+  "Id_product": 14,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH85",
+  "Id_product": 22,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH85",
+  "Id_product": 15,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH86",
+  "Id_product": 25,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH86",
+  "Id_product": 16,
+  "Rating": 5
+ },
+ {
+  "Id_user": "KH87",
+  "Id_product": 26,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH87",
+  "Id_product": 17,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH88",
+  "Id_product": 27,
+  "Rating": 3
+ },
+ {
+  "Id_user": "KH88",
+  "Id_product": 18,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH89",
+  "Id_product": 28,
+  "Rating": 4
+ },
+ {
+  "Id_user": "KH89",
+  "Id_product": 19,
+  "Rating": 5
+ }
+]

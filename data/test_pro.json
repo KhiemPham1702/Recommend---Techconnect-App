@@ -1,0 +1,332 @@
+[
+ {
+  "Id_product": 1, 
+  "Name_product": "Laptop ASUS Vivobook 15 X1502ZA BQ127W", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 2, 
+  "Name_product": "Laptop Asus ExpertBook B9400CEA KC1013W", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 3, 
+  "Name_product": "Laptop ASUS Zenbook 14 OLED UX3402VA KM085W", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 4, 
+  "Name_product": "Laptop ASUS VivoBook Pro 16X OLED N7600ZE L2010W", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 5, 
+  "Name_product": "Laptop gaming ASUS ROG Strix G15 G513IE HN246W", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 6, 
+  "Name_product": "Laptop gaming ASUS TUF Dash F15 FX517ZM HN480W", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 7, 
+  "Name_product": "Laptop gaming ASUS ROG Strix SCAR 17 SE G733CX LL6789W", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 8, 
+  "Name_product": "Laptop Dell Inspiron 15 3520 i3U082W11BLU", 
+  "Brand": "Dell"
+ }, 
+ {
+  "Id_product": 9, 
+  "Name_product": "Laptop Dell Inspiron 14 5420 I5u085w11slu", 
+  "Brand": "Dell"
+ }, 
+ {
+  "Id_product": 10, 
+  "Name_product": "Laptop Dell Vostro 13 5320 V3I7005W Gray", 
+  "Brand": "Dell"
+ }, 
+ {
+  "Id_product": 11, 
+  "Name_product": "Laptop Dell Inspiron 14 7420 1YT85", 
+  "Brand": "Dell"
+ }, 
+ {
+  "Id_product": 12, 
+  "Name_product": "Laptop ASUS ProArt Studiobook Pro 16 OLED W7600Z3A L2048W", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 13, 
+  "Name_product": "Laptop Asus VivoBook 14X OLED S3405VA KM071W", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 14, 
+  "Name_product": "Laptop ASUS TUF Gaming F15 FX506HC HN144W", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 15, 
+  "Name_product": "Dell Inspiron 16 5620 i5P165W11SLU", 
+  "Brand": "Dell"
+ }, 
+ {
+  "Id_product": 16, 
+  "Name_product": "Dell Alienware M15 R6 P109F001CBL", 
+  "Brand": "Dell"
+ }, 
+ {
+  "Id_product": 17, 
+  "Name_product": "Laptop Asus ZenBook Flip OLED UP3404VA KN038W", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 18, 
+  "Name_product": "Dell G15 5520 i7H165W11GR3050T", 
+  "Brand": "Dell"
+ }, 
+ {
+  "Id_product": 20, 
+  "Name_product": "Laptop Apple MacBook Air 13 inch M1 2020", 
+  "Brand": "Apple"
+ }, 
+ {
+  "Id_product": 21, 
+  "Name_product": "Laptop Dell Vostro 3430 71011900", 
+  "Brand": "Dell"
+ }, 
+ {
+  "Id_product": 22, 
+  "Name_product": "Bàn phím không dây Logitech MX Keys Mini - Rose", 
+  "Brand": "Logitech"
+ }, 
+ {
+  "Id_product": 23, 
+  "Name_product": "Bàn phím Logitech Mechanical Gaming G413 TKL SE", 
+  "Brand": "Logitech"
+ }, 
+ {
+  "Id_product": 24, 
+  "Name_product": "Bàn phím Logitech G PRO Mechanical Gaming Keyboard", 
+  "Brand": "Logitech"
+ }, 
+ {
+  "Id_product": 25, 
+  "Name_product": "Bàn phím Logitech G Pro League Of Legends", 
+  "Brand": "Logitech"
+ }, 
+ {
+  "Id_product": 26, 
+  "Name_product": "Laptop MSI Modern 14 B11MOU i", 
+  "Brand": "MSI"
+ }, 
+ {
+  "Id_product": 27, 
+  "Name_product": "Bàn phím cơ Asus ROG Strix Scope RX EVA Edition", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 28, 
+  "Name_product": "Bàn phím Asus ROG Strix Scope NX TKL Moonlight White", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 29, 
+  "Name_product": "Bàn phím Asus ROG Strix Scope NX TKL DELUXE ", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 30, 
+  "Name_product": "Bàn phím Asus ROG Azoth", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 31, 
+  "Name_product": "Bàn phím Asus ROG Falchion", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 32, 
+  "Name_product": "Chuột Logitech G304 Lightspeed Wireless", 
+  "Brand": "Logitech"
+ }, 
+ {
+  "Id_product": 33, 
+  "Name_product": "Chuột Logitech MX Anywhere 3 for Business Pale Grey", 
+  "Brand": "Logitech"
+ }, 
+ {
+  "Id_product": 38, 
+  "Name_product": "Bàn Phím Có Dây Gaming Asus TUF K1", 
+  "Brand": "MSI"
+ }, 
+ {
+  "Id_product": 39, 
+  "Name_product": "Chuột Logitech G502 Hero", 
+  "Brand": "Logitech"
+ }, 
+ {
+  "Id_product": 40, 
+  "Name_product": "Chuột Logitech G502 X Black", 
+  "Brand": "Logitech"
+ }, 
+ {
+  "Id_product": 41, 
+  "Name_product": "Chuột không dây Logitech Signature M650 L Rose", 
+  "Brand": "Logitech"
+ }, 
+ {
+  "Id_product": 42, 
+  "Name_product": "Chuột Asus TUF Gaming M4 Air", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 43, 
+  "Name_product": "Chuột ASUS ROG Keris Wireless", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 44, 
+  "Name_product": "Chuột Asus Rog Gladius III Wireless Aimpoint", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 45, 
+  "Name_product": "Apple Magic Mouse", 
+  "Brand": "Apple"
+ }, 
+ {
+  "Id_product": 46, 
+  "Name_product": "chuột MSI Clutch GM30", 
+  "Brand": "MSI"
+ }, 
+ {
+  "Id_product": 47, 
+  "Name_product": "Tay cầm chơi game Asus ROG Kunai 3", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 48, 
+  "Name_product": "Tay cầm chơi game Asus ROG Kunai 3 Gamepad White", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 49, 
+  "Name_product": "Tay cầm game không dây MSI Force GC30 V2 Black", 
+  "Brand": "MSI"
+ }, 
+ {
+  "Id_product": 51, 
+  "Name_product": "Tay cầm Logitech F310", 
+  "Brand": "Logitech"
+ }, 
+ {
+  "Id_product": 52, 
+  "Name_product": "Tay cầm Sony PS4 Dualshock Green Camo (CUH-ZCT2G16)", 
+  "Brand": "Sony"
+ }, 
+ {
+  "Id_product": 53, 
+  "Name_product": "Tay cầm Logitech F710 Wireless Gamepad", 
+  "Brand": "Logitech"
+ }, 
+ {
+  "Id_product": 54, 
+  "Name_product": "Chuột Không dây Bluetooth Silent Rapoo M500", 
+  "Brand": "Dell"
+ }, 
+ {
+  "Id_product": 55, 
+  "Name_product": "Tai nghe Bluetooth AirPods 2", 
+  "Brand": "Apple"
+ }, 
+ {
+  "Id_product": 59, 
+  "Name_product": "MacBook Pro 16 inch M2 Pro 2023", 
+  "Brand": "Apple"
+ }, 
+ {
+  "Id_product": 60, 
+  "Name_product": "Tai nghe Gaming Logitech G Pro Gen 2", 
+  "Brand": "Logitech"
+ }, 
+ {
+  "Id_product": 61, 
+  "Name_product": "Tai nghe Logitech G535 LIGHTSPEED Wireless Black", 
+  "Brand": "Logitech"
+ }, 
+ {
+  "Id_product": 62, 
+  "Name_product": "Tai nghe Gaming Logitech G335 White", 
+  "Brand": "Logitech"
+ }, 
+ {
+  "Id_product": 63, 
+  "Name_product": "Tai nghe Logitech G733 LIGHTSPEED Wireless Black", 
+  "Brand": "Logitech"
+ }, 
+ {
+  "Id_product": 70, 
+  "Name_product": "Tay cầm không dây MSI Force GC30 V2", 
+  "Brand": "MSI"
+ }, 
+ {
+  "Id_product": 65, 
+  "Name_product": "Laptop Dell Vostro 3510 i5", 
+  "Brand": "Dell"
+ }, 
+ {
+  "Id_product": 66, 
+  "Name_product": "tai nghe Logitech G PRO X LEAGUE OF LEGENDS", 
+  "Brand": "Logitech"
+ }, 
+ {
+  "Id_product": 67, 
+  "Name_product": "Tai Nghe Sony MDR - XB55AP", 
+  "Brand": "Sony"
+ }, 
+ {
+  "Id_product": 68, 
+  "Name_product": "Tai nghe True Wireless Sony WF - C500 Green", 
+  "Brand": "Sony"
+ }, 
+ {
+  "Id_product": 69, 
+  "Name_product": "Tai nghe Hires Sony MDR-1AM2", 
+  "Brand": "Sony"
+ }, 
+ {
+  "Id_product": 70, 
+  "Name_product": "Laptop Dell Vostro 3510 7T2YC2", 
+  "Brand": "Dell"
+ }, 
+ {
+  "Id_product": 77, 
+  "Name_product": "Tai nghe Bluetooth Chụp Tai Sony WH-CH510 ", 
+  "Brand": "Sony"
+ }, 
+ {
+  "Id_product": 82, 
+  "Name_product": "Tay Cầm Chơi Game Có Dây Rapoo V600 Đen", 
+  "Brand": "Dell"
+ }, 
+ {
+  "Id_product": 91, 
+  "Name_product": "Chuột Có dây Gaming Asus Keris", 
+  "Brand": "Asus"
+ }, 
+ {
+  "Id_product": 98, 
+  "Name_product": "Laptop MSI Creator Z16 HX Studio B13VFTO 063VN", 
+  "Brand": "MSI"
+ }, 
+ {
+  "Id_product": 64, 
+  "Name_product": "Bàn Phím Cơ Có Dây Gaming Razer BlackWidow V3", 
+  "Brand": "MSI"
+ }
+]
